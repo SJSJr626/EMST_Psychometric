@@ -21,7 +21,7 @@ All current code is in Python, with minimal R integration via `rpy2`. These scri
 **As of Aug 26, 2025, 18:00 ET:**
 - In progress: **Python** implementation for **categorical winnowing** (with manual tie-break rules).  
 - In progress: **dynamic alignment** with **residual-guided swaps** and **early stopping** (beta).  
-- Planned: Docker packaging and refined R hooks.
+- Planned: Docker packaging.
 
 ## Installation
 
