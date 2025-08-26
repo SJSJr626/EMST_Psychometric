@@ -32,7 +32,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # R integration from Python
-# If using rpy2, ensure R (>= 4.3) is installed and R_HOME is configured.
+# If using rpy2, ensure R (>= 4.3) is installed.
 pip install rpy2
 ```
 
