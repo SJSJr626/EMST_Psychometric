@@ -1,0 +1,14 @@
+# requirements.txt — EMST_Psychometric
+# Core scientific stack
+numpy>=1.24
+pandas>=2.1
+scipy>=1.11
+statsmodels>=0.14
+tqdm>=4.66
+
+# Optional statistical helpers (used in some analyses/reports)
+pingouin>=0.5.4
+
+# Optional R interoperability (requires system R >= 4.3)
+# Uncomment if you plan to use R bridges now.
+# rpy2>=3.5
